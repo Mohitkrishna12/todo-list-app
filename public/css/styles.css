@@ -1,0 +1,21 @@
+body{
+
+	background-color: #cedebd;
+	font-size: 2rem;
+	align-content: center;
+
+
+}
+.top{
+	width: 500px;
+	margin: 200px auto;
+	
+}
+p{
+	margin: 0;
+	display: inline;
+}
+
+.todo-items{
+	margin-left: 150px;
+}
